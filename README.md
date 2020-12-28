@@ -22,7 +22,7 @@ What's up?
 ![](https://img.shields.io/badge/-Tailwind%20CSS-02569B?style=flat&logo=Tailwind%20CSS)
 
 ![](https://img.shields.io/badge/-Microsoft%20Azure-333?style=flat&logo=Microsoft%20Azure)
-![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS)
+![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS)
 ![](https://img.shields.io/badge/-Firebase-333?style=flat&logo=Firebase)
 
 ![](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter)
