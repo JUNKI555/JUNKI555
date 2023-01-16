@@ -6,7 +6,7 @@ What's up?
 
 ## Tech Stacks
 ![](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%20Sharp)
-![](https://img.shields.io/badge/-.NET5-0B0?style=flat&logo=.NET)
+![](https://img.shields.io/badge/-.NET7-0B0?style=flat&logo=.NET)
 ![](https://img.shields.io/badge/-Ruby%20on%20Rails-C00?style=flat&logo=Ruby%20on%20Rails)
 ![](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java)
 ![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-239120?style=flat&logo=Microsoft%20SQL%20Server)
